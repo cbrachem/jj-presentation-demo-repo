@@ -2,6 +2,7 @@ import argparse
 
 GREETINGS = {
     "en": "Hi",
+    "de": "Hallo",
 }
 
 
